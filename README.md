@@ -19,3 +19,19 @@ transformer ./har/ >locustfile.py
 # Restart docker to mount the new locust file.
 docker-compose up
 ```
+
+## Status 
+
+| **Module** | **Status** |
+| --- | --- |
+| Role | Done |
+| Worksheet | Done |
+| Attendance | Done |
+| Group | Done |
+| School | Done |
+| Config | Done |
+| Like | Done |
+| Comment | Done |
+| User | Done |
+| Template | Done |
+
